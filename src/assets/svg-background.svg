@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 571 513">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5ac7f2;
+      }
+
+      .cls-2 {
+        fill: #f77781;
+      }
+    </style>
+  </defs>
+  <title>svg-background-release</title>
+  <g id="isometric">
+    <g>
+      <circle class="cls-1" cx="276" cy="157" r="145"/>
+      <circle class="cls-1" cx="414.5" cy="371.5" r="141"/>
+      <circle class="cls-1" cx="98" cy="300" r="98"/>
+    </g>
+    <circle class="cls-1" cx="147" cy="469" r="44"/>
+    <circle class="cls-1" cx="544" cy="218" r="27"/>
+    <circle class="cls-1" cx="123" cy="85" r="13"/>
+    <circle class="cls-2" cx="471" cy="173" r="11"/>
+    <circle class="cls-2" cx="85" cy="423" r="9"/>
+  </g>
+</svg>

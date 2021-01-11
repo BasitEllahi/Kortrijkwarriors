@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>arrow-right-release</title>
+  <g id="isometric">
+    <g>
+      <line class="cls-1" x1="35.59" y1="9" x2="7.86" y2="9"/>
+      <path class="cls-1" d="M9.86,2.87,1.22,8.26a.56.56,0,0,0,0,.92l8.66,6"/>
+    </g>
+  </g>
+</svg>

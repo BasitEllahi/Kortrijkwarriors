@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>pauseButton</title>
+  <g id="isometric">
+    <g>
+      <rect class="cls-1" x="14" y="3" width="5" height="20"/>
+      <rect class="cls-1" x="6" y="3" width="5" height="20"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173 100">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #fff;
+            }
+        </style>
+    </defs>
+    <g>
+        <polygon class="cls-1" points="173.2,100 173.2,0 0,0" />
+    </g>
+</svg>

@@ -1,0 +1,71 @@
+{
+  "name": "appeel.io",
+  "description": "Appeel.io website",
+  "version": "1.0.0",
+  "author": "Appeel.io <info@appeel.info>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx gatsby build",
+    "develop": "npx gatsby develop",
+    "develop-broadcast": "npx gatsby develop -H 0.0.0.0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^13.4.0",
+    "@contentful/rich-text-types": "^13.4.0",
+    "animate.css": "^3.7.0",
+    "axios": "^0.21.1",
+    "babel-plugin-styled-components": "^1.5.1",
+    "dotenv": "^8.1.0",
+    "gatsby": "^2.0.52",
+    "gatsby-cli": "^2.4.5",
+    "gatsby-image": "^2.2.29",
+    "gatsby-plugin-google-analytics": "^2.0.7",
+    "gatsby-plugin-google-fonts": "^0.0.4",
+    "gatsby-plugin-google-tagmanager": "^2.1.9",
+    "gatsby-plugin-manifest": "^2.0.11",
+    "gatsby-plugin-offline": "^2.0.18",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sharp": "^2.0.12",
+    "gatsby-plugin-styled-components": "^3.0.3",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-contentful": "^2.1.49",
+    "gatsby-source-filesystem": "^2.0.8",
+    "gatsby-transformer-sharp": "^2.1.8",
+    "lodash": "^4.17.15",
+    "marked": "^0.7.0",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^16.6.3",
+    "react-helmet": "^5.2.0",
+    "react-notify-toast": "^0.5.0",
+    "react-router-dom": "^4.3.1",
+    "react-scrollchor": "^6.0.0",
+    "styled-components": "^4.4.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.0",
+    "husky": "^1.1.2",
+    "lint-staged": "^8.1.5",
+    "prettier": "^1.14.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/appeelio/appeel.io"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+/*---
+This is the fade in animation for the back to top button
+--*/
+.animation {
+  animation: fadeIn 500ms ease-in-out;
+}
+
+.sidebar {
+  animation: fadeInSide 500ms ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInSide {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
